@@ -3,6 +3,7 @@
 The scripts here demonstrate implementations of algorithms in the following papers
 
 a) Csato and Opper: "Sparse on-line Gaussian processes"
+
 b) He, Koppel, Bedi, Farhood, and Stilwell: "Bi-Level Nonstationary Kernels for Online Gaussian Process Regression"
 
 PREREQUISITES
